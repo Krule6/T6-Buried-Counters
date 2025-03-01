@@ -1,4 +1,4 @@
-## T6-Buried-Counters
+## Overview
 
 GSC scripts that track RNG events on the Buried Easter Egg Speedrun:
 
