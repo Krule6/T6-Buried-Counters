@@ -15,5 +15,9 @@ The counters will only reset to 0 when a player restart the plutonium app.
 1. Download the file as raw file.
 2. Place the file in "C:\Users\%username%\AppData\Local\Plutonium\storage\t6\scripts\zm".
 
+## Why Use These Counters?
+
+coping
+
 
 
