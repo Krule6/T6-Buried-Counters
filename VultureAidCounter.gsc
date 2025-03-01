@@ -39,11 +39,7 @@ vulture_counter()
     {
         setdvar("vulture_count", getdvarint("vulture_count") + 1);
         self.has_vulture = true;
-       // iPrintLn("[" + getdvarint("vulture_count") + "]");
     }
-    else
-    {
-    //  iPrintLn("not vulture");
-    }
+    
     }
 }
