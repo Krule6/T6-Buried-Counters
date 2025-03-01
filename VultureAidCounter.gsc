@@ -20,7 +20,7 @@ vulture_counter()
         self.vulture_hud.alpha = 1; 
         self.vulture_hud.color = (1, 0.8, 1); 
         self.vulture.hidewheninmenu = 1;
-        self.vulture_hud.label = &"Vulture Aid Count: ";
+        self.vulture_hud.label = &"Vulture Aid Counter: ";
         self.vulture_hud SetValue((GetDvarFloat("vulture_count")));
     }
     
