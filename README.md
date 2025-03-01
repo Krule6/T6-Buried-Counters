@@ -10,7 +10,7 @@ VultureAidCounter.gsc – Tracks the amount of times the player has acquired Vul
 
 The counters will only reset to 0 when a player quits plutonium. 
 
-##Installation
+## Installation
 
 1. Download the desired file
 2. Place the file in "C:\Users\%username%\AppData\Local\Plutonium\storage\t6\scripts\zm"
