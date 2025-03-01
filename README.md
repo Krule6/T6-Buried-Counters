@@ -4,7 +4,7 @@ GSC scripts that track RNG events on the Buried Easter Egg Speedrun:
 
   - [BofaCounter.gsc](https://github.com/Krule6/T6-Buried-Counters/blob/main/BofaCounter.gsc) – Tracks how many times the player has acquired both the Paralyzer and Time Bomb.
 
-  - [GamesSinceBofa.gsc](https://github.com/Krule6/T6-Buried-Counters/blob/main/GamesSinceBofa.gsc) – Keeps count of how many games have been played since the last getting Paralyzer and Time Bomb.
+  - [GamesSinceBofa.gsc](https://github.com/Krule6/T6-Buried-Counters/blob/main/GamesSinceBofa.gsc) – Keeps count of how many games have been played since getting Paralyzer and Time Bomb.
 
   - [VultureAidCounter.gsc](https://github.com/Krule6/T6-Buried-Counters/blob/main/VultureAidCounter.gsc) – Tracks the amount of times the player has acquired Vulture Aid.
 
