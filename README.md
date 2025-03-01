@@ -10,12 +10,10 @@ This repository includes scripts that track RNG events of the Buried Easter Egg 
 
 The counters will only reset to 0 when a player quits plutonium. 
 
-## Installation
-
-1. Download the desired file
-2. Place the file in "C:\Users\%username%\AppData\Local\Plutonium\storage\t6\scripts\zm"
-
 ## Download
+
+1. Download the file as raw file.
+2. Place the file in "C:\Users\%username%\AppData\Local\Plutonium\storage\t6\scripts\zm".
 
 
 
