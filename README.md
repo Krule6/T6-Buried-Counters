@@ -16,6 +16,6 @@ The counters will only reset to 0 when a player quits plutonium.
 2. Place the file in "C:\Users\%username%\AppData\Local\Plutonium\storage\t6\scripts\zm"
 
 ## Download
-[download](https://github.com/Krule6/T6-Buried-Counters/releases/download/Gamessincebofa.gsc)
+[download](https://github.com/Krule6/T6-Buried-Counters/blob/main/BofaCounter.gsc)
 
 
