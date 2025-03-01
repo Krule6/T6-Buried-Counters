@@ -6,7 +6,7 @@ GSC scripts that track RNG events on the Buried Easter Egg Speedrun:
 
   - [GamesSinceBofa.gsc](https://github.com/Krule6/T6-Buried-Counters/blob/main/GamesSinceBofa.gsc) – Keeps count of how many games have been played since the last getting Paralyzer and Time Bomb.
 
-  - [VultureAidCounter.gsc](https://github.com/Krule6/T6-Buried-Counters/blob/main/VultureAidCounter.gsc) – Tracks the amount of times the player has acquired Vulture Aid from the free perk
+  - [VultureAidCounter.gsc](https://github.com/Krule6/T6-Buried-Counters/blob/main/VultureAidCounter.gsc) – Tracks the amount of times the player has acquired Vulture Aid.
 
 The counters will only reset to 0 when a player restart the plutonium app. 
 
