@@ -3,6 +3,7 @@
 #include maps\mp\zombies\_zm_utility;
 #include maps\mp\gametypes_zm\_hud_util;
 #include maps\mp\gametypes_zm\_hud_message;
+
 init()
 {
     set_dvar_int_if_unset("gsb_counter", 0); 
@@ -59,12 +60,12 @@ gsb_counter()
             setdvar("gsb_counter", 0);
             counterincreased = 0; 
         }
+
         else if (!counterincreased)
         {
             setdvar("gsb_counter", getdvarint("gsb_counter") + 1);
             counterincreased = 1;
         }
-
 
         wait(0.5);
     }
