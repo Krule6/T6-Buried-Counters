@@ -1,6 +1,6 @@
 ## T6-Buried-Counters
 
-This repository includes scripts that track RNG events of the Buried Easter Egg Speedrun:
+GSC scripts that track RNG events of the Buried Easter Egg Speedrun:
 
   - [BofaCounter.gsc](https://github.com/Krule6/T6-Buried-Counters/blob/main/BofaCounter.gsc) – Tracks how many times the player has acquired both the Paralyzer and Time Bomb.
 
