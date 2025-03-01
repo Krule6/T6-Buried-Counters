@@ -6,9 +6,9 @@ This repository includes scripts that track RNG events of the Buried Easter Egg 
 
   - [GamesSinceBofa.gsc](https://github.com/Krule6/T6-Buried-Counters/blob/main/GamesSinceBofa.gsc) – Keeps count of how many games have been played since the last getting Paralyzer and Time Bomb.
 
-  - VultureAidCounter.gsc – Tracks the amount of times the player has acquired Vulture Aid as a free perk from the witches
+  - [VultureAidCounter.gsc](https://github.com/Krule6/T6-Buried-Counters/blob/main/VultureAidCounter.gsc) – Tracks the amount of times the player has acquired Vulture Aid as a free perk from the witches
 
-The counters will only reset to 0 when a player quits plutonium. 
+The counters will only reset to 0 when a player restart the plutonium app. 
 
 ## Download
 
