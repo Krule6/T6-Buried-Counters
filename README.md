@@ -2,7 +2,7 @@
 
 This repository includes scripts that track RNG events of the Buried Easter Egg Speedrun:
 
-  - BofaCounter.gsc – Tracks how many times the player has acquired both the Paralyzer and Time Bomb.
+  - [BofaCounter.gsc](https://github.com/Krule6/T6-Buried-Counters/blob/main/BofaCounter.gsc) – Tracks how many times the player has acquired both the Paralyzer and Time Bomb.
 
   - GamesSinceBofa.gsc – Keeps count of how many games have been played since the last getting Paralyzer and Time Bomb.
 
